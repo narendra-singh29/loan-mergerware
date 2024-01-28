@@ -1,6 +1,5 @@
-# HGIA Loan Portal
+# MERGERWARE Assignment
 
-Application can be accessed at: http://simple-green-loans.meteorapp.com/#/
 
 ## Build
 
